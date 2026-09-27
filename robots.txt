@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.nqojjs.com/sitemap.xml
